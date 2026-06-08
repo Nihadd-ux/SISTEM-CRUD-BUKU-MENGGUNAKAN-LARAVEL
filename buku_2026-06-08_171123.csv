@@ -1,8 +1,0 @@
-"Kode Buku",Judul,Kategori,Pengarang,Penerbit,Tahun,ISBN,Harga,Stok
-BK-001,"Laravel 12 untuk Pemula",Programming,"John Doe","Tech Publisher",2024,978-602-1234-56-1,200000.00,25
-BK-004,"Network Security Fundamentals",Networking,"Robert Johnson","Security Press",2023,978-602-1234-56-4,200000.00,10
-BK-005,"Data Science dengan Python","Data Science","Siti Nurhaliza","Analytics Publisher",2024,978-602-1234-56-5,180000.00,18
-BK-006,"PHP 8 Programming",Programming,"Budi Raharjo","Code House",2023,978-602-1234-56-6,130000.00,0
-BK-007,"PostgreSQL Administration",Database,"David Wilson","Database Pro",2024,978-602-1234-56-7,195000.00,12
-BK-008,"React & Next.js Development",Programming,"Sarah Anderson","Frontend Press",2024,978-602-1234-56-8,165000.00,22
-BK-TEST-002,"Testing Laravel CRUD",Programming,"Soo NIhadd","Test Publisher",2026,975-083-339,150000.00,12
